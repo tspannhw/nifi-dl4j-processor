@@ -1,0 +1,549 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-dl4j-nar
+
+
+From: 'an unknown organization'
+  - AOP alliance (http://aopalliance.sourceforge.net) aopalliance:aopalliance:jar:1.0
+    License: Public Domain 
+  - JCommander (http://beust.com/jcommander) com.beust:jcommander:jar:1.27
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - stream-lib (https://github.com/addthis/stream-lib) com.clearspring.analytics:stream:jar:2.7.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Findbugs Annotations under Apache License (http://stephenc.github.com/findbugs-annotations) com.github.stephenc.findbugs:findbugs-annotations:jar:1.3.9-1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - FindBugs-Annotations (http://findbugs.sourceforge.net/) com.google.code.findbugs:annotations:jar:2.0.1
+    License: GNU Lesser Public License  (http://www.gnu.org/licenses/lgpl.html)
+  - Guava: Google Core Libraries for Java (http://code.google.com/p/guava-libraries/guava) com.google.guava:guava:bundle:18.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - unirest-java (http://unirest.io/) com.mashape.unirest:unirest-java:jar:1.4.9
+    License: MIT  (http://opensource.org/licenses/MIT)
+  - Spark (http://www.sparkjava.com) com.sparkjava:spark-core:bundle:2.5.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:jar:2.6
+    License: BSD  (LICENSE.txt)
+  - TwelveMonkeys :: Common :: Image (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/common/common-image) com.twelvemonkeys.common:common-image:jar:3.1.1
+
+  - TwelveMonkeys :: Common :: IO (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/common/common-io) com.twelvemonkeys.common:common-io:jar:3.1.1
+
+  - TwelveMonkeys :: Common :: Language support (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/common/common-lang) com.twelvemonkeys.common:common-lang:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: BMP plugin (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-bmp) com.twelvemonkeys.imageio:imageio-bmp:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: Core (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-core) com.twelvemonkeys.imageio:imageio-core:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: JPEG plugin (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-jpeg) com.twelvemonkeys.imageio:imageio-jpeg:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: Metadata (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-metadata) com.twelvemonkeys.imageio:imageio-metadata:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: PSD plugin (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-psd) com.twelvemonkeys.imageio:imageio-psd:jar:3.1.1
+
+  - TwelveMonkeys :: ImageIO :: TIFF plugin (http://nexus.sonatype.org/oss-repository-hosting.html/twelvemonkeys/imageio/imageio-tiff) com.twelvemonkeys.imageio:imageio-tiff:jar:3.1.1
+
+  - Aeron (https://github.com/real-logic/Aeron) io.aeron:aeron-all:jar:1.0.4
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - fastutil (http://fasutil.di.unimi.it/) it.unimi.dsi:fastutil:jar:6.5.7
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - javax.inject (http://code.google.com/p/atinject/) javax.inject:javax.inject:jar:1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Java Transaction API (http://java.sun.com/products/jta) javax.transaction:jta:jar:1.1
+
+  - Bean Validation API (http://beanvalidation.org) javax.validation:validation-api:jar:1.1.0.Final
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jcommon (http://www.jfree.org/jcommon/) jfree:jcommon:jar:1.0.16
+    License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+  - neoitertools (http://neoitertools.googlecode.com/) net.ericaro:neoitertools:jar:1.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - "Java Concurrency in Practice" book annotations (http://jcip.net/) net.jcip:jcip-annotations:jar:1.0
+
+  - TypeTools (http://github.com/jhalterman/typetools/) net.jodah:typetools:bundle:0.4.3
+    License: Apache License, Version 2.0  (http://apache.org/licenses/LICENSE-2.0)
+  - LZ4 and xxHash (https://github.com/jpountz/lz4-java) net.jpountz.lz4:lz4:jar:1.3.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - opencsv (http://opencsv.sf.net) net.sf.opencsv:opencsv:jar:2.3
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Agrona (https://github.com/real-logic/Agrona) org.agrona:Agrona:jar:0.5.4
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - tomcat-servlet-api (http://tomcat.apache.org/) org.apache.tomcat:tomcat-servlet-api:jar:8.0.21
+    License: Apache License, Version 2.0 and
+        Common Development And Distribution License (CDDL) Version 1.0  (http://www.apache.org/licenses/LICENSE-2.0.txt and
+        http://www.opensource.org/licenses/cddl1.txt)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.54
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.54
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - JavaCPP (http://bytedeco.org/javacpp/) org.bytedeco:javacpp:jar:1.3.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCV (http://bytedeco.org/javacv/) org.bytedeco:javacv:jar:1.3.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for ARToolKitPlus (http://bytedeco.org/javacpp-presets/artoolkitplus/) org.bytedeco.javacpp-presets:artoolkitplus:jar:2.3.1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for FFmpeg (http://bytedeco.org/javacpp-presets/ffmpeg/) org.bytedeco.javacpp-presets:ffmpeg:jar:3.2.1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for flandmark (http://bytedeco.org/javacpp-presets/flandmark/) org.bytedeco.javacpp-presets:flandmark:jar:1.07-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for FlyCapture (http://bytedeco.org/javacpp-presets/flycapture/) org.bytedeco.javacpp-presets:flycapture:jar:2.9.3.43-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for HDF5 (http://bytedeco.org/javacpp-presets/hdf5/) org.bytedeco.javacpp-presets:hdf5:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets Platform for HDF5 (http://bytedeco.org/javacpp-presets/hdf5-platform/) org.bytedeco.javacpp-presets:hdf5-platform:jar:1.10.0-patch1-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for Leptonica (http://bytedeco.org/javacpp-presets/leptonica/) org.bytedeco.javacpp-presets:leptonica:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets Platform for Leptonica (http://bytedeco.org/javacpp-presets/leptonica-platform/) org.bytedeco.javacpp-presets:leptonica-platform:jar:1.73-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for libdc1394 (http://bytedeco.org/javacpp-presets/libdc1394/) org.bytedeco.javacpp-presets:libdc1394:jar:2.2.4-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for libfreenect (http://bytedeco.org/javacpp-presets/libfreenect/) org.bytedeco.javacpp-presets:libfreenect:jar:0.5.3-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for libfreenect2 (http://bytedeco.org/javacpp-presets/libfreenect2/) org.bytedeco.javacpp-presets:libfreenect2:jar:0.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for librealsense (http://bytedeco.org/javacpp-presets/librealsense/) org.bytedeco.javacpp-presets:librealsense:jar:1.9.6-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas/) org.bytedeco.javacpp-presets:openblas:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets Platform for OpenBLAS (http://bytedeco.org/javacpp-presets/openblas-platform/) org.bytedeco.javacpp-presets:openblas-platform:jar:0.2.19-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for OpenCV (http://bytedeco.org/javacpp-presets/opencv/) org.bytedeco.javacpp-presets:opencv:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets Platform for OpenCV (http://bytedeco.org/javacpp-presets/opencv-platform/) org.bytedeco.javacpp-presets:opencv-platform:jar:3.2.0-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - JavaCPP Presets for videoInput (http://bytedeco.org/javacpp-presets/videoinput/) org.bytedeco.javacpp-presets:videoinput:jar:0.200-1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: GNU General Public License (GPL) version 2, or any later version  (http://www.gnu.org/licenses/)    License: GPLv2 with Classpath exception  (http://www.gnu.org/software/classpath/license.html)
+  - datavec-api (http://nd4j.org/datavec-api) org.datavec:datavec-api:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - datavec-data-codec (http://maven.apache.org/datavec-data-codec) org.datavec:datavec-data-codec:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - datavec-data-image (http://maven.apache.org/datavec-data-image) org.datavec:datavec-data-image:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-core (http://deeplearning4j.org/deeplearning4j-core/) org.deeplearning4j:deeplearning4j-core:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-modelimport (http://deeplearning4j.org/deeplearning4j-modelimport/) org.deeplearning4j:deeplearning4j-modelimport:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-nlp (http://deeplearning4j.org/deeplearning4j-nlp-parent/deeplearning4j-nlp/) org.deeplearning4j:deeplearning4j-nlp:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-nn (http://deeplearning4j.org/deeplearning4j-nn/) org.deeplearning4j:deeplearning4j-nn:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-parallel-wrapper (http://deeplearning4j.org/deeplearning4j-scaleout/deeplearning4j-parallel-wrapper_2.10/) org.deeplearning4j:deeplearning4j-parallel-wrapper_2.10:jar:0.8.1-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-play (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-play_2.10/) org.deeplearning4j:deeplearning4j-play_2.10:jar:0.8.1-SNAPSHOT
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-play (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-play_2.11/) org.deeplearning4j:deeplearning4j-play_2.11:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-ui-components (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-ui-components/) org.deeplearning4j:deeplearning4j-ui-components:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-ui-model (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-ui-model/) org.deeplearning4j:deeplearning4j-ui-model:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-ui-resources (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-ui-resources/) org.deeplearning4j:deeplearning4j-ui-resources:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - deeplearning4j-ui (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-ui_2.11/) org.deeplearning4j:deeplearning4j-ui_2.11:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nearestneighbor-core (http://maven.apache.org) org.deeplearning4j:nearestneighbor-core:jar:0.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Eclipse Collections Main Library (https://github.com/eclipse/eclipse-collections/eclipse-collections) org.eclipse.collections:eclipse-collections:bundle:7.1.1
+    License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
+  - Eclipse Collections API (https://github.com/eclipse/eclipse-collections/eclipse-collections-api) org.eclipse.collections:eclipse-collections-api:bundle:7.1.1
+    License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
+  - Eclipse Collections Fork Join Utilities (https://github.com/eclipse/eclipse-collections/eclipse-collections-forkjoin) org.eclipse.collections:eclipse-collections-forkjoin:bundle:7.1.1
+    License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
+  - FreeMarker (http://freemarker.org/) org.freemarker:freemarker:jar:2.3.23
+    License: Apache License, Version 2.0  (http://freemarker.org/LICENSE.txt)
+  - Hibernate Validator Engine (http://validator.hibernate.org/hibernate-validator) org.hibernate:hibernate-validator:jar:5.0.3.Final
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - leveldb (http://github.com/dain/leveldb/leveldb) org.iq80.leveldb:leveldb:jar:0.5
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - leveldb-api (http://github.com/dain/leveldb/leveldb-api) org.iq80.leveldb:leveldb-api:jar:0.5
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Javassist (http://www.javassist.org/) org.javassist:javassist:bundle:3.19.0-GA
+    License: MPL 1.1  (http://www.mozilla.org/MPL/MPL-1.1.html)    License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)    License: Apache License 2.0  (http://www.apache.org/licenses/)
+  - JCodec (http://jcodec.org) org.jcodec:jcodec:jar:0.1.5
+    License: FreeBSD  (http://jcodec.org/lic.html)
+  - kotlin-runtime (http://kotlinlang.org/kotlin-runtime/) org.jetbrains.kotlin:kotlin-runtime:jar:1.0.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - kotlin-stdlib (http://kotlinlang.org/kotlin-stdlib/) org.jetbrains.kotlin:kotlin-stdlib:jar:1.0.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JSON in Java (https://github.com/douglascrockford/JSON-java) org.json:json:bundle:20160212
+    License: The JSON License  (http://json.org/license.html)
+  - Elsa Serialization (http://www.mapdb.org) org.mapdb:elsa:bundle:3.0.0-M5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - mapdb (http://www.mapdb.org) org.mapdb:mapdb:bundle:3.0.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson (http://nd4j.org/nd4j-shade/jackson/) org.nd4j:jackson:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-aeron (http://nd4j.org/nd4j-serde/nd4j-aeron/) org.nd4j:nd4j-aeron:jar:0.9.1-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-api (http://nd4j.org) org.nd4j:nd4j-api:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-base64 (http://nd4j.org/nd4j-serde/nd4j-base64/) org.nd4j:nd4j-base64:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-buffer (http://nd4j.org/nd4j-buffer/) org.nd4j:nd4j-buffer:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-common (http://nd4j.org/nd4j-common/) org.nd4j:nd4j-common:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-context (http://nd4j.org/nd4j-context/) org.nd4j:nd4j-context:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-jackson (http://nd4j.org/nd4j-serde/nd4j-jackson/) org.nd4j:nd4j-jackson:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native/) org.nd4j:nd4j-native:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native-api (http://nd4j.org/nd4j-backends/nd4j-api-parent/nd4j-native-api/) org.nd4j:nd4j-native-api:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-native-platform (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native-platform/) org.nd4j:nd4j-native-platform:jar:0.9.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-parameter-server (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server/) org.nd4j:nd4j-parameter-server:jar:0.9.1-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-parameter-server-client (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-client/) org.nd4j:nd4j-parameter-server-client:jar:0.9.1-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - nd4j-parameter-server-model (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-model/) org.nd4j:nd4j-parameter-server-model:jar:0.9.1-SNAPSHOT
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Project Lombok (https://projectlombok.org) org.projectlombok:lombok:jar:1.16.16
+    License: The MIT License  (https://projectlombok.org/LICENSE)
+  - Reflections (http://github.com/ronmamo/reflections) org.reflections:reflections:jar:0.9.10
+    License: WTFPL  (http://www.wtfpl.net/)    License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)
+  - Uncommons Maths (http://maths.uncommons.org/) org.uncommons.maths:uncommons-maths:jar:1.2.2a
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - SQLite JDBC (http://nexus.sonatype.org/oss-repository-hosting.html/sqlite-jdbc) org.xerial:sqlite-jdbc:jar:3.15.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SnakeYAML (http://www.snakeyaml.org) org.yaml:snakeyaml:bundle:1.12
+    License: Apache License Version 2.0  (LICENSE.txt)
+  - Xerces2-j (https://xerces.apache.org/xerces2-j/) xerces:xercesImpl:jar:2.11.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - XML Commons External Components XML APIs (http://xml.apache.org/commons/components/external/) xml-apis:xml-apis:jar:1.4.01
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)    License: The SAX License  (http://www.saxproject.org/copying.html)    License: The W3C License  (http://www.w3.org/TR/2004/REC-DOM-Level-3-Core-20040407/java-binding.zip)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-dl4j-processors (http://nifi.apache.org/nifi-nar-bundles/dl4j-processor/nifi-dl4j-processors) com.dataflowdeveloper:nifi-dl4j-processors:jar:1.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-processor-utils (http://nifi.apache.org/nifi-commons/nifi-processor-utils) org.apache.nifi:nifi-processor-utils:jar:1.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-security-utils (http://nifi.apache.org/nifi-commons/nifi-security-utils) org.apache.nifi:nifi-security-utils:jar:1.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'com.fasterxml.jackson.module'
+  - jackson-module-scala (http://wiki.fasterxml.com/JacksonModuleScala) com.fasterxml.jackson.module:jackson-module-scala_2.10:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-module-scala (http://wiki.fasterxml.com/JacksonModuleScala) com.fasterxml.jackson.module:jackson-module-scala_2.11:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'com.typesafe'
+  - config (https://github.com/typesafehub/config) com.typesafe:config:bundle:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'com.typesafe.play' (https://github.com/playframework/twirl)
+  - twirl-api (https://github.com/playframework/twirl) com.typesafe.play:twirl-api_2.10:jar:1.1.1
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - twirl-api (https://github.com/playframework/twirl) com.typesafe.play:twirl-api_2.11:jar:1.1.1
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'com.typesafe.play' (https://playframework.com)
+  - Build-Link (https://playframework.com) com.typesafe.play:build-link:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-DataCommons (https://playframework.com) com.typesafe.play:play-datacommons_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-DataCommons (https://playframework.com) com.typesafe.play:play-datacommons_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Exceptions (https://playframework.com) com.typesafe.play:play-exceptions:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Functional (https://playframework.com) com.typesafe.play:play-functional_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Functional (https://playframework.com) com.typesafe.play:play-functional_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Iteratees (https://playframework.com) com.typesafe.play:play-iteratees_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Iteratees (https://playframework.com) com.typesafe.play:play-iteratees_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Java (https://playframework.com) com.typesafe.play:play-java_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Java (https://playframework.com) com.typesafe.play:play-java_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Json (https://playframework.com) com.typesafe.play:play-json_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Json (https://playframework.com) com.typesafe.play:play-json_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Netty-Server (https://playframework.com) com.typesafe.play:play-netty-server_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Netty-Server (https://playframework.com) com.typesafe.play:play-netty-server_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Netty-Utils (https://playframework.com) com.typesafe.play:play-netty-utils:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Server (https://playframework.com) com.typesafe.play:play-server_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play-Server (https://playframework.com) com.typesafe.play:play-server_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play (https://playframework.com) com.typesafe.play:play_2.10:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Play (https://playframework.com) com.typesafe.play:play_2.11:jar:2.4.6
+    License: Apache-2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-core:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.6.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-datatype-jdk8 (http://github.com/FasterXML/jackson-datatype-jdk8/) com.fasterxml.jackson.datatype:jackson-datatype-jdk8:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-Datatype-JSR310 (http://wiki.fasterxml.com/JacksonModuleJSR310) com.fasterxml.jackson.datatype:jackson-datatype-jsr310:bundle:2.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'fasterxml.com' (http://fasterxml.com)
+  - ClassMate (http://github.com/cowtowncoder/java-classmate) com.fasterxml:classmate:bundle:1.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Stax2 API (http://wiki.fasterxml.com/WoodstoxStax2) org.codehaus.woodstox:stax2-api:bundle:3.1.4
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+
+From: 'FuseSource, Corp.' (http://fusesource.com/)
+  - HawtJNI Runtime (http://hawtjni.fusesource.org/hawtjni-runtime) org.fusesource.hawtjni:hawtjni-runtime:jar:1.8
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - leveldbjni (http://leveldbjni.fusesource.org/leveldbjni) org.fusesource.leveldbjni:leveldbjni:jar:1.7
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-all (http://leveldbjni.fusesource.org/leveldbjni-all) org.fusesource.leveldbjni:leveldbjni-all:bundle:1.7
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-linux32 (http://leveldbjni.fusesource.org/leveldbjni-linux32) org.fusesource.leveldbjni:leveldbjni-linux32:jar:1.5
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-linux64 (http://leveldbjni.fusesource.org/leveldbjni-linux64) org.fusesource.leveldbjni:leveldbjni-linux64:jar:1.5
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-osx (http://leveldbjni.fusesource.org/leveldbjni-osx) org.fusesource.leveldbjni:leveldbjni-osx:jar:1.5
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-win32 (http://leveldbjni.fusesource.org/leveldbjni-win32) org.fusesource.leveldbjni:leveldbjni-win32:jar:1.5
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+  - leveldbjni-win64 (http://leveldbjni.fusesource.org/leveldbjni-win64) org.fusesource.leveldbjni:leveldbjni-win64:jar:1.5
+    License: The BSD 3-Clause License  (http://www.opensource.org/licenses/BSD-3-Clause)
+
+From: 'Google' (http://www.google.com/)
+  - Protocol Buffer Java API (http://code.google.com/p/protobuf) com.google.protobuf:protobuf-java:bundle:2.5.0
+    License: New BSD license  (http://www.opensource.org/licenses/bsd-license.php)
+
+From: 'Google, Inc.' (http://www.google.com)
+  - Google Guice - Core Library (https://github.com/google/guice/guice) com.google.inject:guice:jar:4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Google Guice - Extensions - AssistedInject (https://github.com/google/guice/extensions-parent/guice-assistedinject) com.google.inject.extensions:guice-assistedinject:jar:4.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'jai-imageio GitHub group' (https://github.com/jai-imageio/)
+  - Java Advanced Imaging Image I/O Tools API core (standalone) (https://github.com/jai-imageio/jai-imageio-core) com.github.jai-imageio:jai-imageio-core:jar:1.3.0
+    License: BSD 3-clause License  (http://opensource.org/licenses/BSD-3-Clause)
+
+From: 'JBoss by Red Hat' (http://www.jboss.org)
+  - JBoss Logging 3 (http://www.jboss.org) org.jboss.logging:jboss-logging:jar:3.2.1.Final
+    License: Apache License, version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'JFree.org' (http://www.jfree.org/)
+  - jfreechart (http://www.jfree.org/jfreechart/) jfree:jfreechart:jar:1.0.13
+    License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+  - JCommon (http://www.jfree.org/jcommon/) org.jfree:jcommon:jar:1.0.23
+    License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+
+From: 'Joda.org' (http://www.joda.org)
+  - Joda-Time (http://www.joda.org/joda-time/) joda-time:joda-time:jar:2.8.2
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Joda-Convert (http://www.joda.org/joda-convert/) org.joda:joda-convert:jar:1.7
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'LAMP/EPFL' (http://lamp.epfl.ch/)
+  - Scala Library (http://www.scala-lang.org/) org.scala-lang:scala-library:jar:2.11.6
+    License: BSD 3-Clause  (http://www.scala-lang.org/license.html)
+  - Scala Compiler (http://www.scala-lang.org/) org.scala-lang:scala-reflect:jar:2.11.2
+    License: BSD 3-Clause  (http://www.scala-lang.org/license.html)
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - javax.ws.rs-api (http://jax-rs-spec.java.net) javax.ws.rs:javax.ws.rs-api:jar:2.0
+    License: CDDL 1.1  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (http://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'org.scala-lang.modules' (http://www.scala-lang.org/)
+  - scala-java8-compat (http://www.scala-lang.org/) org.scala-lang.modules:scala-java8-compat_2.10:bundle:0.3.0
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+  - scala-java8-compat (http://www.scala-lang.org/) org.scala-lang.modules:scala-java8-compat_2.11:bundle:0.3.0
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+  - scala-parser-combinators (http://www.scala-lang.org/) org.scala-lang.modules:scala-parser-combinators_2.11:bundle:1.0.1
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+  - scala-xml (http://www.scala-lang.org/) org.scala-lang.modules:scala-xml_2.11:bundle:1.0.1
+    License: BSD 3-clause  (http://opensource.org/licenses/BSD-3-Clause)
+
+From: 'org.scala-stm'
+  - scala-stm (http://nbronson.github.com/scala-stm/) org.scala-stm:scala-stm_2.10:jar:0.7
+    License: BSD  (https://github.com/nbronson/scala-stm/blob/master/LICENSE.txt)
+  - scala-stm (http://nbronson.github.com/scala-stm/) org.scala-stm:scala-stm_2.11:jar:0.7
+    License: BSD  (https://github.com/nbronson/scala-stm/blob/master/LICENSE.txt)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - Logback Classic Module (http://logback.qos.ch/logback-classic) ch.qos.logback:logback-classic:jar:1.1.3
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)    License: GNU Lesser General Public License  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+  - Logback Core Module (http://logback.qos.ch/logback-core) ch.qos.logback:logback-core:jar:1.1.3
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)    License: GNU Lesser General Public License  (http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+
+From: 'Spring IO' (http://projects.spring.io/spring-framework)
+  - Spring Beans (https://github.com/spring-projects/spring-framework) org.springframework:spring-beans:jar:4.2.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Context (https://github.com/spring-projects/spring-framework) org.springframework:spring-context:jar:4.2.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Core (https://github.com/spring-projects/spring-framework) org.springframework:spring-core:jar:4.2.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Codec (http://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.10
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/) commons-lang:commons-lang:jar:2.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Net (http://commons.apache.org/proper/commons-net/) commons-net:commons-net:jar:3.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (http://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.11
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (http://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Math (http://commons.apache.org/proper/commons-math/) org.apache.commons:commons-math3:jar:3.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpAsyncClient (http://hc.apache.org/httpcomponents-asyncclient) org.apache.httpcomponents:httpasyncclient:jar:4.1.1
+    License: Apache License, Version 2.0  (LICENSE.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.4.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.4.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpCore NIO (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore-nio:jar:4.4.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient Mime (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpmime:jar:4.5.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Netty Project' (http://netty.io/)
+  - Netty (http://netty.io/) io.netty:netty:bundle:3.10.4.Final
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Typesafe' (http://typesafe.com/)
+  - com.typesafe.netty:netty-http-pipelining (https://github.com/typesafehub/netty-http-pipelining) com.typesafe.netty:netty-http-pipelining:jar:1.1.4
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Typesafe Inc.' (http://www.typesafe.com)
+  - akka-actor (http://akka.io/) com.typesafe.akka:akka-actor_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-actor (http://akka.io/) com.typesafe.akka:akka-actor_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-cluster (http://akka.io/) com.typesafe.akka:akka-cluster_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-cluster (http://akka.io/) com.typesafe.akka:akka-cluster_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-contrib (http://akka.io/) com.typesafe.akka:akka-contrib_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-contrib (http://akka.io/) com.typesafe.akka:akka-contrib_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-persistence-experimental (http://akka.io/) com.typesafe.akka:akka-persistence-experimental_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-persistence-experimental (http://akka.io/) com.typesafe.akka:akka-persistence-experimental_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-remote (http://akka.io/) com.typesafe.akka:akka-remote_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-remote (http://akka.io/) com.typesafe.akka:akka-remote_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-slf4j (http://akka.io/) com.typesafe.akka:akka-slf4j_2.10:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - akka-slf4j (http://akka.io/) com.typesafe.akka:akka-slf4j_2.11:jar:2.3.13
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Webtide' (http://webtide.com)
+  - Jetty :: Http Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-http:jar:9.3.9.v20160517
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: IO Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-io:jar:9.3.9.v20160517
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-util:jar:9.3.9.v20160517
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: API (http://www.eclipse.org/jetty/websocket-api) org.eclipse.jetty.websocket:websocket-api:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Client (http://www.eclipse.org/jetty/websocket-client) org.eclipse.jetty.websocket:websocket-client:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Common (http://www.eclipse.org/jetty/websocket-common) org.eclipse.jetty.websocket:websocket-common:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Server (http://www.eclipse.org/jetty/websocket-server) org.eclipse.jetty.websocket:websocket-server:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Servlet Interface (http://www.eclipse.org/jetty/websocket-servlet) org.eclipse.jetty.websocket:websocket-servlet:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+
+
+
