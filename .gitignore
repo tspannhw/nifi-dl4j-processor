@@ -1,4 +1,9 @@
 /target/
+*target*
+./target/.
+*/target/*
+*/*target*/*
+*.*/target/*.*
 /target/*.*
 /.settings/
 .DS_Store
