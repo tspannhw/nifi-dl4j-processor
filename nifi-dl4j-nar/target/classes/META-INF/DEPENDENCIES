@@ -21,7 +21,7 @@ From: 'an unknown organization'
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - unirest-java (http://unirest.io/) com.mashape.unirest:unirest-java:jar:1.4.9
     License: MIT  (http://opensource.org/licenses/MIT)
-  - Spark (http://www.sparkjava.com) com.sparkjava:spark-core:bundle:2.5.4
+  - Spark (http://www.sparkjava.com) com.sparkjava:spark-core:bundle:2.7.2
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:jar:2.6
     License: BSD  (LICENSE.txt)
@@ -193,9 +193,9 @@ From: 'an unknown organization'
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - deeplearning4j-nn (http://deeplearning4j.org/deeplearning4j-nn/) org.deeplearning4j:deeplearning4j-nn:jar:0.9.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - deeplearning4j-parallel-wrapper (http://deeplearning4j.org/deeplearning4j-scaleout/deeplearning4j-parallel-wrapper_2.10/) org.deeplearning4j:deeplearning4j-parallel-wrapper_2.10:jar:0.8.1-SNAPSHOT
+  - deeplearning4j-parallel-wrapper (http://deeplearning4j.org/deeplearning4j-scaleout/deeplearning4j-parallel-wrapper_2.10/) org.deeplearning4j:deeplearning4j-parallel-wrapper_2.10:jar:0.9.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - deeplearning4j-play (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-play_2.10/) org.deeplearning4j:deeplearning4j-play_2.10:jar:0.8.1-SNAPSHOT
+  - deeplearning4j-play (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-play_2.10/) org.deeplearning4j:deeplearning4j-play_2.10:jar:0.9.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - deeplearning4j-play (http://deeplearning4j.org/deeplearning4j-ui-parent/deeplearning4j-play_2.11/) org.deeplearning4j:deeplearning4j-play_2.11:jar:0.9.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -209,11 +209,11 @@ From: 'an unknown organization'
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - nearestneighbor-core (http://maven.apache.org) org.deeplearning4j:nearestneighbor-core:jar:0.9.1
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - Eclipse Collections Main Library (https://github.com/eclipse/eclipse-collections/eclipse-collections) org.eclipse.collections:eclipse-collections:bundle:7.1.1
+  - Eclipse Collections Main Library (https://github.com/eclipse/eclipse-collections/eclipse-collections) org.eclipse.collections:eclipse-collections:bundle:7.1.2
     License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
-  - Eclipse Collections API (https://github.com/eclipse/eclipse-collections/eclipse-collections-api) org.eclipse.collections:eclipse-collections-api:bundle:7.1.1
+  - Eclipse Collections API (https://github.com/eclipse/eclipse-collections/eclipse-collections-api) org.eclipse.collections:eclipse-collections-api:bundle:7.1.2
     License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
-  - Eclipse Collections Fork Join Utilities (https://github.com/eclipse/eclipse-collections/eclipse-collections-forkjoin) org.eclipse.collections:eclipse-collections-forkjoin:bundle:7.1.1
+  - Eclipse Collections Fork Join Utilities (https://github.com/eclipse/eclipse-collections/eclipse-collections-forkjoin) org.eclipse.collections:eclipse-collections-forkjoin:bundle:7.1.2
     License: Eclipse Public License - v 1.0  (https://www.eclipse.org/legal/epl-v10.html)    License: Eclipse Distribution License - v 1.0  (https://www.eclipse.org/licenses/edl-v10.html)
   - FreeMarker (http://freemarker.org/) org.freemarker:freemarker:jar:2.3.23
     License: Apache License, Version 2.0  (http://freemarker.org/LICENSE.txt)
@@ -239,7 +239,7 @@ From: 'an unknown organization'
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - jackson (http://nd4j.org/nd4j-shade/jackson/) org.nd4j:jackson:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - nd4j-aeron (http://nd4j.org/nd4j-serde/nd4j-aeron/) org.nd4j:nd4j-aeron:jar:0.9.1-SNAPSHOT
+  - nd4j-aeron (http://nd4j.org/nd4j-serde/nd4j-aeron/) org.nd4j:nd4j-aeron:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - nd4j-api (http://nd4j.org) org.nd4j:nd4j-api:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
@@ -271,11 +271,11 @@ From: 'an unknown organization'
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - nd4j-native-platform (http://nd4j.org/nd4j-backends/nd4j-backend-impls/nd4j-native-platform/) org.nd4j:nd4j-native-platform:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - nd4j-parameter-server (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server/) org.nd4j:nd4j-parameter-server:jar:0.9.1-SNAPSHOT
+  - nd4j-parameter-server (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server/) org.nd4j:nd4j-parameter-server:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - nd4j-parameter-server-client (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-client/) org.nd4j:nd4j-parameter-server-client:jar:0.9.1-SNAPSHOT
+  - nd4j-parameter-server-client (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-client/) org.nd4j:nd4j-parameter-server-client:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - nd4j-parameter-server-model (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-model/) org.nd4j:nd4j-parameter-server-model:jar:0.9.1-SNAPSHOT
+  - nd4j-parameter-server-model (http://nd4j.org/nd4j-parameter-server-parent/nd4j-parameter-server-model/) org.nd4j:nd4j-parameter-server-model:jar:0.9.1
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - Project Lombok (https://projectlombok.org) org.projectlombok:lombok:jar:1.16.16
     License: The MIT License  (https://projectlombok.org/LICENSE)
@@ -527,21 +527,27 @@ From: 'Typesafe Inc.' (http://www.typesafe.com)
     License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
 
 From: 'Webtide' (http://webtide.com)
-  - Jetty :: Http Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-http:jar:9.3.9.v20160517
-    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
   - Jetty :: IO Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-io:jar:9.3.9.v20160517
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
   - Jetty :: Utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-util:jar:9.3.9.v20160517
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
-  - Jetty :: Websocket :: API (http://www.eclipse.org/jetty/websocket-api) org.eclipse.jetty.websocket:websocket-api:jar:9.3.6.v20151106
+  - Jetty :: XML utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-xml:jar:9.3.9.v20160517
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
-  - Jetty :: Websocket :: Client (http://www.eclipse.org/jetty/websocket-client) org.eclipse.jetty.websocket:websocket-client:jar:9.3.6.v20151106
+
+From: 'Webtide' (https://webtide.com)
+  - Jetty :: Asynchronous HTTP Client (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-client:jar:9.4.8.v20171121
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
-  - Jetty :: Websocket :: Common (http://www.eclipse.org/jetty/websocket-common) org.eclipse.jetty.websocket:websocket-common:jar:9.3.6.v20151106
+  - Jetty :: Http Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-http:jar:9.4.8.v20171121
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
-  - Jetty :: Websocket :: Server (http://www.eclipse.org/jetty/websocket-server) org.eclipse.jetty.websocket:websocket-server:jar:9.3.6.v20151106
+  - Jetty :: Websocket :: API (http://www.eclipse.org/jetty/websocket-api) org.eclipse.jetty.websocket:websocket-api:jar:9.4.8.v20171121
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
-  - Jetty :: Websocket :: Servlet Interface (http://www.eclipse.org/jetty/websocket-servlet) org.eclipse.jetty.websocket:websocket-servlet:jar:9.3.6.v20151106
+  - Jetty :: Websocket :: Client (http://www.eclipse.org/jetty/websocket-client) org.eclipse.jetty.websocket:websocket-client:jar:9.4.8.v20171121
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Common (http://www.eclipse.org/jetty/websocket-common) org.eclipse.jetty.websocket:websocket-common:jar:9.4.8.v20171121
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Server (http://www.eclipse.org/jetty/websocket-server) org.eclipse.jetty.websocket:websocket-server:jar:9.4.8.v20171121
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Websocket :: Servlet Interface (http://www.eclipse.org/jetty/websocket-servlet) org.eclipse.jetty.websocket:websocket-servlet:jar:9.4.8.v20171121
     License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
 
 
